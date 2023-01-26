@@ -86,7 +86,7 @@ More Facts:
 <head>
   <title> PONNU SUPER MARKET </title>
 </head>
-<body style="background-color: #E9FFF0;">
+<body style="background-color: rgb(229, 141, 178);">
 
 <h1> PONNU SUPER MARKET</h1>
 <h2>Ponnu Super Market in Ambattur, Chennai</h2>
@@ -106,7 +106,7 @@ More Facts:
 <head>
   <title> MIDNIGHT DHABA </title>
 </head>
-<body style="background-color: #C5FFD4;">
+<body style="background-color: rgb(134, 147, 175);">
 
 <h1> MIDNIGHT DHABA</h1>
 <h2>Popular Dishes</h2>
@@ -147,7 +147,7 @@ Average Cost</LI>
 <head>
   <title> BIGBOSS </title>
 </head>
-<body style="background-color: #D5C7FF;">
+<body style="background-color: rgb(127, 101, 204);">
 
 <h1> BIGBOSS </h1>
 <h3>Bigg Boss Fashion King in Ambattur, Chennai</h3>
@@ -167,7 +167,7 @@ While looking for Readymade Garment Retailers, Bigg Boss Fashion King in Tirumul
 <head>
   <title> CORPORATION PARK </title>
 </head>
-<body style="background-color: #FFE9F8;">
+<body style="background-color: rgb(64, 097, 195);">
 
 <h1> CORPORATION PARK </h1>
 <h2>Parks</h2>
@@ -178,15 +178,17 @@ While looking for Readymade Garment Retailers, Bigg Boss Fashion King in Tirumul
 </html>
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/118343379/211598802-59669fce-5967-4e76-b159-c12c6a1a605c.png)
-![image](https://user-images.githubusercontent.com/118343379/211598863-ffc39ccf-ced1-4f13-9d42-5ba180a2be60.png)
-![image](https://user-images.githubusercontent.com/118343379/211598909-8f12bd40-9cb6-4a83-984c-d5164b288279.png)
-![image](https://user-images.githubusercontent.com/118343379/211598983-a5b9239d-4db6-4e46-9c39-31f7af00edbd.png)
-![image](https://user-images.githubusercontent.com/118343379/211599048-017e20b4-3709-4650-9447-7471c59fd7ee.png)
-![image](https://user-images.githubusercontent.com/118343379/211599121-a2f1912c-e8f5-4b54-99b1-c9489efa2542.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/115707860/214840874-af8715f3-67fd-44fd-a66c-e17c607ecd81.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/115707860/214840919-6a7d5947-451d-4323-969e-f165d6b5dd15.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/115707860/214841045-d04927d0-bf19-473a-a1a8-a07e1f8d3b02.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/115707860/214841169-b43bb89d-2840-41cf-afd2-05e853ea513a.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/115707860/214841229-ebd7bb25-d9ea-4ad1-979e-60332b8a338b.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/115707860/214841260-ef11556d-bfde-47c3-bc0c-99c9a492f7cc.png)
 
 ## HTTP VALIDATOR OUTPUT ;
-![Screenshot_20230110_091225](https://user-images.githubusercontent.com/118343379/211599690-1455e402-4d32-46a5-ad5b-f32665030a38.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/115707860/214841459-cba03459-99ed-44b5-9f14-5019f3800a95.png)
 
 ## Result:
 Successfully developed a webpage for each location and linked it to the image region.
